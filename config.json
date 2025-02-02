@@ -32,7 +32,7 @@
           "dest": "www.samsung.com:443",
           "xver": 0,
           "serverNames": [
-            "www.microsoft.com"
+            "www.samsung.com"
           ],
           "privateKey": "///YOUR_PRIVATE_KEY///",
           "minClientVer": "",
